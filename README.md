@@ -1,6 +1,6 @@
 ## Laravel Foundation Console Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.1/src/Illuminate/Foundation/Console/](https://github.com/laravel/framework/tree/v5.7.1/src/Illuminate/Foundation/Console/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.2/src/Illuminate/Foundation/Console/](https://github.com/laravel/framework/tree/v5.7.2/src/Illuminate/Foundation/Console/)
 
 
 ### Issues
