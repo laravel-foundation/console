@@ -1,6 +1,12 @@
 ## Laravel Foundation Console Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Console/](https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Console/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Console/](https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Console/)
+
+### Installation
+
+```bash
+composer require laravel-foundation/console
+```
 
 
 ### Issues
